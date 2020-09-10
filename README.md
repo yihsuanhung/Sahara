@@ -1,2 +1,2 @@
 # Sahara
-Sahara, a immunohistochemistry raw data calculator for internal use.
+Sahara, an immunohistochemistry raw data calculator for internal use.
